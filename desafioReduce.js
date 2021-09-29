@@ -2,7 +2,8 @@ const alunos = [
     { nome: 'João', nota: 7.3, bolsista: true},
     { nome: 'Maria', nota: 9.2, bolsista: true},
     { nome: 'Pedro', nota: 9.8, bolsista: true},
-    { nome: 'Ana Lucia', nota: 8.6, bolsista: true}
+    { nome: 'Ana Lucia', nota: 8.6, bolsista: true},
+    { nome: 'Ana maria', nota: 7.2, bolsista: false}
 ]
 
 
