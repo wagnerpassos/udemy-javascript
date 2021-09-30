@@ -1,0 +1,13 @@
+[{
+	"nome": "Celular",
+	"preco": 1999.99,
+	"desconto": 0.15
+}, {
+	"nome": "Tablet",
+	"preco": 999.99,
+	"desconto": 0.2
+}, {
+	"nome": "Notebook",
+	"preco": 3999.99,
+	"desconto": 0.1
+}]
